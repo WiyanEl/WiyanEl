@@ -13,6 +13,8 @@
   </a>
 </p>
 
+<a href="#wiyanel-title"><img src="https://raw.githubusercontent.com/WiyanEl/github-stats-transparent/output/generated/overview.svg" alt="WiyanEl" align="right"/></a>
+
 * 🏢 I'm currently working as a **Fullstack Developer**
 * 📖 Learn more about my projects on my **[portfolio](https://haloel-next.vercel.app/en)**
 * 📫 Ask me anything on my **[issues page](https://github.com/WiyanEl/WiyanEl/issues)**
