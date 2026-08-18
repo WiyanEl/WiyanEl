@@ -81,11 +81,11 @@
       <br>PHP
     </td>
     <td align="center" valign="bottom" width="96">
-      <img src="./images/nodejs.png" width="48" height="48" alt="Node.js" />
+      <img src="./images/nodejs2.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" valign="bottom" width="96">
-      <img src="./images/nestjs.png" width="48" height="48" alt="NestJS" />
+      <img src="./images/nestjs.svg" width="48" height="48" alt="NestJS" />
       <br>NestJS
     </td>
   </tr>
