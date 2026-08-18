@@ -29,15 +29,15 @@
       <strong>Frontend</strong>
     </td>
     <td>
-      <img src="./images/angular.png" width="48" height="48" alt="Angular" />
+      <img src="./images/javascript.png" width="48" height="48" alt="JavaScript" />
+      <img src="./images/typescript.png" width="48" height="48" alt="TypeScript" />
       <img src="./images/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       <img src="./images/bulma.png" width="48" height="48" alt="Bulma" />
-      <img src="./images/javascript.png" width="48" height="48" alt="JavaScript" />
+      <img src="./images/tailwind.png" width="48" height="48" alt="Tailwind CSS" />
       <img src="./images/jquery.png" width="48" height="48" alt="jQuery" />
+      <img src="./images/angular.png" width="48" height="48" alt="Angular" />
       <img src="./images/nextjs.png" width="48" height="48" alt="Next.js" />
       <img src="./images/react.png" width="48" height="48" alt="React" />
-      <img src="./images/tailwind.png" width="48" height="48" alt="Tailwind CSS" />
-      <img src="./images/typescript.png" width="48" height="48" alt="TypeScript" />
       <img src="./images/vue.png" width="48" height="48" alt="Vue.js" />
     </td>
   </tr>
@@ -48,9 +48,9 @@
       <strong>Backend</strong>
     </td>
     <td>
-      <img src="./images/laravel.png" width="48" height="48" alt="Laravel" />
       <img src="./images/php.png" width="48" height="48" alt="PHP" />
       <img src="./images/nodejs2.png" width="48" height="48" alt="Node.js" />
+      <img src="./images/laravel.png" width="48" height="48" alt="Laravel" />
       <img src="./images/nestjs.svg" width="48" height="48" alt="NestJS" />
     </td>
   </tr>
