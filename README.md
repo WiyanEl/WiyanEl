@@ -1,6 +1,17 @@
-# 👋 Hello there! I'm Wiyan Barkah Elmansyah
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Wiyan Barkah Elmansyah</h1>
+<h3 align="left">I do Software Development</h3>
 
-### Web Developer | Mobile Developer
+<p align="left">
+  <a href="https://github.com/WiyanEl">
+    <img src="https://komarev.com/ghpvc/?username=WiyanEl" alt="page views" />
+  </a>
+  <a href="https://github.com/WiyanEl?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/WiyanEl?style=flat&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
 * 🏢 I'm currently working as a **Fullstack Developer**
 * 📖 Learn more about my projects on my **[portfolio](https://haloel-next.vercel.app/en)**
