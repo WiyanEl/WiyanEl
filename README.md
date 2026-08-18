@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Wiyan Barkah Elmansyah</h1>
+<h1 align="left">:wave: Hello there! I'm Wiyan Barkah Elmansyah</h1>
 <h3 align="left">I do Software Development</h3>
 
 <p align="left">
@@ -21,20 +21,13 @@
 * 🎵 Connect with me on **[TikTok](https://www.tiktok.com/@wiyanbarkah)**
 
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiyanEl&show_icons=true&theme=transparent&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiyanEl&layout=compact&theme=transparent&hide_border=true" height="180"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WiyanEl&theme=transparent&hide_border=true" />
 </p>
 
-## 🛠️ Favorite Tech
+<h2 align="left">Favorite Tech</h2>
 
-## 📈 Coding Activity
-
+<h2 align="left">Coding Activity</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiyanEl&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
